@@ -1,0 +1,6 @@
+
+data/inventory.db
+*.db
+__pycache__/
+.venv/
+venv/
